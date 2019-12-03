@@ -1,0 +1,26 @@
+version : '2'
+services :
+   php7 :
+     image : charge_php7:latest
+     ports :
+        - "9006:9000"
+     volumes :
+        - ./web:/usr/local/nginx/html
+        - ./php7/conf/php.ini:/usr/local/php7/lib/php.ini:ro
+     container_name : charge_php7
+     restart : always
+   nginx :
+     image : charge_nginx:latest
+     ports :
+        - "8080:8000"
+        - "455:433"
+     volumes :
+        - ./nginx1.3/logs:/var/log/nginx
+        - ./nginx1.3/logs:/usr/local/nginx/logs
+        - ./web:/usr/local/nginx/html
+        - ./nginx1.3/conf/nginx.conf:/usr/local/nginx/conf/nginx.conf:ro
+        - ./nginx1.3/conf/vhost:/usr/local/nginx/conf/vhost:ro
+     container_name : charge_nginx
+     links :
+        - php7
+     restart : always

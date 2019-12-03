@@ -1,0 +1,595 @@
+2017/12/06 14:58:21 [error] 5#0: *93 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught UnexpectedValueException: There is no existing directory at "/usr/local/nginx/html/symfony-demo/var\logs" and its not buildable: Protocol error in /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:171
+Stack trace:
+#0 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php(97): Monolog\Handler\StreamHandler->createDir()
+#1 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(37): Monolog\Handler\StreamHandler->write(Array)
+#2 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossedHandler.php(122): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#3 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Logger.php(337): Monolog\Handler\FingersCrossedHandler->handle(Array)
+#4 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Logger.php(644): Monolog\Lo...
+PHP message: PHP Fatal error:  Uncaught UnexpectedValueException: There is no existing directory at "/usr/local/nginx/html/symfony-demo/var\logs" and its not buildable: Protocol error in /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:171
+Stack trace:
+#0 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php(97): Monolog\Handler\StreamHandler->createDir()
+#1 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(37): Monolog\Handler\StreamHandler->write(Array)
+#2 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossedHandler.php(122): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#3 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Logger.php(337): Monolog\Handler\FingersCrossedHandler->handle(Array)
+#4 /usr/local/nginx/html/symfony-demo/ven
+2017/12/06 14:58:26 [error] 5#0: *93 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught UnexpectedValueException: There is no existing directory at "/usr/local/nginx/html/symfony-demo/var\logs" and its not buildable: Protocol error in /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:171
+Stack trace:
+#0 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php(97): Monolog\Handler\StreamHandler->createDir()
+#1 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(37): Monolog\Handler\StreamHandler->write(Array)
+#2 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossedHandler.php(122): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#3 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Logger.php(337): Monolog\Handler\FingersCrossedHandler->handle(Array)
+#4 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Logger.php(644): Monolog\Lo...
+PHP message: PHP Fatal error:  Uncaught UnexpectedValueException: There is no existing directory at "/usr/local/nginx/html/symfony-demo/var\logs" and its not buildable: Protocol error in /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:171
+Stack trace:
+#0 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php(97): Monolog\Handler\StreamHandler->createDir()
+#1 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(37): Monolog\Handler\StreamHandler->write(Array)
+#2 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossedHandler.php(122): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#3 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Logger.php(337): Monolog\Handler\FingersCrossedHandler->handle(Array)
+#4 /usr/local/nginx/html/symfony-demo/ven
+2017/12/06 14:58:33 [error] 5#0: *93 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught UnexpectedValueException: There is no existing directory at "/usr/local/nginx/html/symfony-demo/var\logs" and its not buildable: Protocol error in /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:171
+Stack trace:
+#0 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php(97): Monolog\Handler\StreamHandler->createDir()
+#1 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(37): Monolog\Handler\StreamHandler->write(Array)
+#2 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossedHandler.php(122): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#3 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Logger.php(337): Monolog\Handler\FingersCrossedHandler->handle(Array)
+#4 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Logger.php(644): Monolog\Lo...
+PHP message: PHP Fatal error:  Uncaught UnexpectedValueException: There is no existing directory at "/usr/local/nginx/html/symfony-demo/var\logs" and its not buildable: Protocol error in /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:171
+Stack trace:
+#0 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php(97): Monolog\Handler\StreamHandler->createDir()
+#1 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(37): Monolog\Handler\StreamHandler->write(Array)
+#2 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossedHandler.php(122): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#3 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Logger.php(337): Monolog\Handler\FingersCrossedHandler->handle(Array)
+#4 /usr/local/nginx/html/symfony-demo/ven
+2017/12/06 14:59:20 [error] 5#0: *93 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught UnexpectedValueException: There is no existing directory at "/usr/local/nginx/html/symfony-demo/var\logs" and its not buildable: Protocol error in /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:171
+Stack trace:
+#0 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php(97): Monolog\Handler\StreamHandler->createDir()
+#1 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(37): Monolog\Handler\StreamHandler->write(Array)
+#2 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossedHandler.php(122): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#3 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Logger.php(337): Monolog\Handler\FingersCrossedHandler->handle(Array)
+#4 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Logger.php(644): Monolog\Lo...
+PHP message: PHP Fatal error:  Uncaught UnexpectedValueException: There is no existing directory at "/usr/local/nginx/html/symfony-demo/var\logs" and its not buildable: Protocol error in /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:171
+Stack trace:
+#0 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php(97): Monolog\Handler\StreamHandler->createDir()
+#1 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(37): Monolog\Handler\StreamHandler->write(Array)
+#2 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossedHandler.php(122): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#3 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Logger.php(337): Monolog\Handler\FingersCrossedHandler->handle(Array)
+#4 /usr/local/nginx/html/symfony-demo/ven
+2017/12/06 14:59:38 [error] 5#0: *93 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught UnexpectedValueException: There is no existing directory at "/usr/local/nginx/html/symfony-demo/var\logs" and its not buildable: Protocol error in /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:171
+Stack trace:
+#0 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php(97): Monolog\Handler\StreamHandler->createDir()
+#1 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(37): Monolog\Handler\StreamHandler->write(Array)
+#2 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossedHandler.php(122): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#3 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Logger.php(337): Monolog\Handler\FingersCrossedHandler->handle(Array)
+#4 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Logger.php(644): Monolog\Lo...
+PHP message: PHP Fatal error:  Uncaught UnexpectedValueException: There is no existing directory at "/usr/local/nginx/html/symfony-demo/var\logs" and its not buildable: Protocol error in /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:171
+Stack trace:
+#0 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php(97): Monolog\Handler\StreamHandler->createDir()
+#1 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(37): Monolog\Handler\StreamHandler->write(Array)
+#2 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossedHandler.php(122): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#3 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Logger.php(337): Monolog\Handler\FingersCrossedHandler->handle(Array)
+#4 /usr/local/nginx/html/symfony-demo/ven
+2017/12/06 15:00:30 [error] 5#0: *93 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught UnexpectedValueException: There is no existing directory at "/usr/local/nginx/html/symfony-demo/var\logs" and its not buildable: Protocol error in /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:171
+Stack trace:
+#0 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php(97): Monolog\Handler\StreamHandler->createDir()
+#1 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(37): Monolog\Handler\StreamHandler->write(Array)
+#2 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossedHandler.php(122): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#3 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Logger.php(337): Monolog\Handler\FingersCrossedHandler->handle(Array)
+#4 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Logger.php(644): Monolog\Lo...
+PHP message: PHP Fatal error:  Uncaught UnexpectedValueException: There is no existing directory at "/usr/local/nginx/html/symfony-demo/var\logs" and its not buildable: Protocol error in /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:171
+Stack trace:
+#0 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php(97): Monolog\Handler\StreamHandler->createDir()
+#1 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(37): Monolog\Handler\StreamHandler->write(Array)
+#2 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossedHandler.php(122): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#3 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Logger.php(337): Monolog\Handler\FingersCrossedHandler->handle(Array)
+#4 /usr/local/nginx/html/symfony-demo/ven
+2017/12/06 15:00:49 [error] 5#0: *93 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught UnexpectedValueException: There is no existing directory at "/usr/local/nginx/html/symfony-demo/var\logs" and its not buildable: Protocol error in /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:171
+Stack trace:
+#0 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php(97): Monolog\Handler\StreamHandler->createDir()
+#1 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(37): Monolog\Handler\StreamHandler->write(Array)
+#2 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossedHandler.php(122): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#3 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Logger.php(337): Monolog\Handler\FingersCrossedHandler->handle(Array)
+#4 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Logger.php(644): Monolog\Lo...
+PHP message: PHP Fatal error:  Uncaught UnexpectedValueException: There is no existing directory at "/usr/local/nginx/html/symfony-demo/var\logs" and its not buildable: Protocol error in /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:171
+Stack trace:
+#0 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php(97): Monolog\Handler\StreamHandler->createDir()
+#1 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(37): Monolog\Handler\StreamHandler->write(Array)
+#2 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossedHandler.php(122): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#3 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Logger.php(337): Monolog\Handler\FingersCrossedHandler->handle(Array)
+#4 /usr/local/nginx/html/symfony-demo/ven
+2017/12/06 15:00:57 [error] 5#0: *93 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught UnexpectedValueException: There is no existing directory at "/usr/local/nginx/html/symfony-demo/var\logs" and its not buildable: Protocol error in /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:171
+Stack trace:
+#0 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php(97): Monolog\Handler\StreamHandler->createDir()
+#1 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(37): Monolog\Handler\StreamHandler->write(Array)
+#2 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossedHandler.php(122): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#3 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Logger.php(337): Monolog\Handler\FingersCrossedHandler->handle(Array)
+#4 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Logger.php(644): Monolog\Lo...
+PHP message: PHP Fatal error:  Uncaught UnexpectedValueException: There is no existing directory at "/usr/local/nginx/html/symfony-demo/var\logs" and its not buildable: Protocol error in /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:171
+Stack trace:
+#0 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php(97): Monolog\Handler\StreamHandler->createDir()
+#1 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(37): Monolog\Handler\StreamHandler->write(Array)
+#2 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossedHandler.php(122): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#3 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Logger.php(337): Monolog\Handler\FingersCrossedHandler->handle(Array)
+#4 /usr/local/nginx/html/symfony-demo/ven
+2017/12/06 15:01:03 [error] 5#0: *93 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught UnexpectedValueException: There is no existing directory at "/usr/local/nginx/html/symfony-demo/var\logs" and its not buildable: Protocol error in /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:171
+Stack trace:
+#0 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php(97): Monolog\Handler\StreamHandler->createDir()
+#1 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(37): Monolog\Handler\StreamHandler->write(Array)
+#2 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossedHandler.php(122): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#3 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Logger.php(337): Monolog\Handler\FingersCrossedHandler->handle(Array)
+#4 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Logger.php(644): Monolog\Lo...
+PHP message: PHP Fatal error:  Uncaught UnexpectedValueException: There is no existing directory at "/usr/local/nginx/html/symfony-demo/var\logs" and its not buildable: Protocol error in /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:171
+Stack trace:
+#0 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php(97): Monolog\Handler\StreamHandler->createDir()
+#1 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(37): Monolog\Handler\StreamHandler->write(Array)
+#2 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossedHandler.php(122): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#3 /usr/local/nginx/html/symfony-demo/vendor/monolog/monolog/src/Monolog/Logger.php(337): Monolog\Handler\FingersCrossedHandler->handle(Array)
+#4 /usr/local/nginx/html/symfony-demo/ven
+2017/12/06 15:03:35 [error] 5#0: *109 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Cannot declare class appProdProjectContainer, because the name is already in use in /usr/local/nginx/html/symfony-demo/var/cache/prod/appProdProjectContainer.php on line 0" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /zh_CN/login HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/zh_CN"
+2017/12/06 15:04:41 [error] 5#0: *109 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Cannot declare class appProdProjectContainer, because the name is already in use in /usr/local/nginx/html/symfony-demo/var/cache/prod/appProdProjectContainer.php on line 0" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /zh_CN/login HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/zh_CN"
+2017/12/06 15:05:18 [error] 5#0: *109 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught RuntimeException: Failed to start the session in /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Storage/NativeSessionStorage.php:146
+Stack trace:
+#0 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Storage/NativeSessionStorage.php(302): Symfony\Component\HttpFoundation\Session\Storage\NativeSessionStorage->start()
+#1 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Session.php(260): Symfony\Component\HttpFoundation\Session\Storage\NativeSessionStorage->getBag('attributes')
+#2 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Session.php(72): Symfony\Component\HttpFoundation\Session\Session->getAttributeBag()
+#3 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/Security/Http/Firewall/ContextListener.php(93): Symfony\Componen" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /zh_CN/login HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/zh_CN"
+2017/12/06 15:06:43 [error] 5#0: *113 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught RuntimeException: Failed to start the session in /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Storage/NativeSessionStorage.php:146
+Stack trace:
+#0 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Storage/NativeSessionStorage.php(302): Symfony\Component\HttpFoundation\Session\Storage\NativeSessionStorage->start()
+#1 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Session.php(260): Symfony\Component\HttpFoundation\Session\Storage\NativeSessionStorage->getBag('attributes')
+#2 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Session.php(72): Symfony\Component\HttpFoundation\Session\Session->getAttributeBag()
+#3 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/Security/Http/Firewall/ContextListener.php(93): Symfony\Componen" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /zh_CN/login HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/zh_CN"
+2017/12/06 15:06:48 [error] 5#0: *113 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught RuntimeException: Failed to start the session in /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Storage/NativeSessionStorage.php:146
+Stack trace:
+#0 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Storage/NativeSessionStorage.php(302): Symfony\Component\HttpFoundation\Session\Storage\NativeSessionStorage->start()
+#1 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Session.php(260): Symfony\Component\HttpFoundation\Session\Storage\NativeSessionStorage->getBag('attributes')
+#2 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Session.php(72): Symfony\Component\HttpFoundation\Session\Session->getAttributeBag()
+#3 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/Security/Http/Firewall/ContextListener.php(93): Symfony\Componen" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /zh_CN/login HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/zh_CN"
+2017/12/06 15:07:13 [error] 5#0: *113 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught RuntimeException: Failed to start the session in /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Storage/NativeSessionStorage.php:146
+Stack trace:
+#0 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Storage/NativeSessionStorage.php(302): Symfony\Component\HttpFoundation\Session\Storage\NativeSessionStorage->start()
+#1 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Session.php(260): Symfony\Component\HttpFoundation\Session\Storage\NativeSessionStorage->getBag('attributes')
+#2 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Session.php(72): Symfony\Component\HttpFoundation\Session\Session->getAttributeBag()
+#3 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/Security/Http/Firewall/ContextListener.php(93): Symfony\Componen" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /zh_CN/login HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/zh_CN"
+2017/12/06 15:07:47 [error] 5#0: *126 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught RuntimeException: Failed to start the session in /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Storage/NativeSessionStorage.php:146
+Stack trace:
+#0 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Storage/NativeSessionStorage.php(302): Symfony\Component\HttpFoundation\Session\Storage\NativeSessionStorage->start()
+#1 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Session.php(260): Symfony\Component\HttpFoundation\Session\Storage\NativeSessionStorage->getBag('attributes')
+#2 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Session.php(72): Symfony\Component\HttpFoundation\Session\Session->getAttributeBag()
+#3 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/Security/Http/Firewall/ContextListener.php(93): Symfony\Componen" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /zh_CN/login HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/zh_CN"
+2017/12/06 15:08:20 [error] 5#0: *126 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught RuntimeException: Failed to start the session in /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Storage/NativeSessionStorage.php:146
+Stack trace:
+#0 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Storage/NativeSessionStorage.php(302): Symfony\Component\HttpFoundation\Session\Storage\NativeSessionStorage->start()
+#1 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Session.php(260): Symfony\Component\HttpFoundation\Session\Storage\NativeSessionStorage->getBag('attributes')
+#2 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Session.php(72): Symfony\Component\HttpFoundation\Session\Session->getAttributeBag()
+#3 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/Security/Http/Firewall/ContextListener.php(93): Symfony\Componen" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/06 15:16:47 [error] 5#0: *131 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught RuntimeException: Failed to start the session in /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Storage/NativeSessionStorage.php:146
+Stack trace:
+#0 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Storage/NativeSessionStorage.php(302): Symfony\Component\HttpFoundation\Session\Storage\NativeSessionStorage->start()
+#1 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Session.php(260): Symfony\Component\HttpFoundation\Session\Storage\NativeSessionStorage->getBag('attributes')
+#2 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Session.php(72): Symfony\Component\HttpFoundation\Session\Session->getAttributeBag()
+#3 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/Security/Http/Firewall/ContextListener.php(93): Symfony\Componen" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/06 15:17:31 [error] 5#0: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught RuntimeException: Failed to start the session in /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Storage/NativeSessionStorage.php:146
+Stack trace:
+#0 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Storage/NativeSessionStorage.php(302): Symfony\Component\HttpFoundation\Session\Storage\NativeSessionStorage->start()
+#1 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Session.php(260): Symfony\Component\HttpFoundation\Session\Storage\NativeSessionStorage->getBag('attributes')
+#2 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Session.php(72): Symfony\Component\HttpFoundation\Session\Session->getAttributeBag()
+#3 /usr/local/nginx/html/symfony-demo/vendor/symfony/symfony/src/Symfony/Component/Security/Http/Firewall/ContextListener.php(93): Symfony\Componen" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/06 16:54:23 [error] 5#0: *115 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: HTTP_CLIENT_IP in /usr/local/nginx/html/ghs-mall-activity/web/app.php on line 17" while reading response header from upstream, client: 192.168.99.1, server: gmall-act.com, request: "GET /login HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "gmall-act.com"
+2017/12/06 17:00:25 [error] 5#0: *1 open() "/usr/local/nginx/html/ghs-mall-activity/web/bundles/avanzuadmintheme/static/dev/scripts/admin-lte-all.js" failed (2: No such file or directory), client: 192.168.99.1, server: gmall-act.com, request: "GET /bundles/avanzuadmintheme/static/dev/scripts/admin-lte-all.js HTTP/1.1", host: "gmall-act.com"
+2017/12/06 17:00:34 [error] 5#0: *1 "/usr/local/nginx/html/ghs-mall-activity/web/bundles/avanzuadmintheme/static/dev/index.html" is not found (2: No such file or directory), client: 192.168.99.1, server: gmall-act.com, request: "GET /bundles/avanzuadmintheme/static/dev/ HTTP/1.1", host: "gmall-act.com"
+2017/12/06 17:00:42 [error] 5#0: *1 open() "/usr/local/nginx/html/ghs-mall-activity/web/bundles/avanzuadmintheme" failed (2: No such file or directory), client: 192.168.99.1, server: gmall-act.com, request: "GET /bundles/avanzuadmintheme HTTP/1.1", host: "gmall-act.com", referrer: "http://gmall-act.com/bundles/"
+2017/12/06 17:01:22 [error] 5#0: *1 open() "/usr/local/nginx/html/ghs-mall-activity/web/bundles/avanzuadmintheme" failed (2: No such file or directory), client: 192.168.99.1, server: gmall-act.com, request: "GET /bundles/avanzuadmintheme HTTP/1.1", host: "gmall-act.com", referrer: "http://gmall-act.com/bundles/"
+2017/12/06 17:01:24 [error] 5#0: *1 open() "/usr/local/nginx/html/ghs-mall-activity/web/bundles/avanzuadmintheme" failed (2: No such file or directory), client: 192.168.99.1, server: gmall-act.com, request: "GET /bundles/avanzuadmintheme HTTP/1.1", host: "gmall-act.com", referrer: "http://gmall-act.com/bundles/"
+2017/12/06 17:18:00 [error] 31#0: *62 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 192.168.99.1, server: gmall-act.com, request: "GET /app_dev.php HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "gmall-act.com"
+2017/12/07 16:21:35 [error] 14#0: *359 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\ServiceNotFoundException: The service "twig" has a dependency on a non-existent service "sonata.block.templating.helper". in /usr/local/nginx/html/sonata_by_init/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Compiler/CheckExceptionOnInvalidReferenceBehaviorPass.php:58
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Compiler/CheckExceptionOnInvalidReferenceBehaviorPass.php(42): Symfony\Component\DependencyInjection\Compiler\CheckExceptionOnInvalidReferenceBehaviorPass->processReferences(Array)
+#1 /usr/local/nginx/html/sonata_by_init/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Compiler/CheckExceptionOnInvalidReferenceBehaviorPass.php(53): Symfony\Component\DependencyInjection\Compiler\CheckExceptionOnInvalidReferenceBehaviorPass->processDefinition(Object(Symfony\Component\DependencyInjection\Definition))
+#2 /usr/" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 16:22:03 [error] 5#0: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\ServiceNotFoundException: The service "twig" has a dependency on a non-existent service "sonata.block.templating.helper". in /usr/local/nginx/html/sonata_by_init/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Compiler/CheckExceptionOnInvalidReferenceBehaviorPass.php:58
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Compiler/CheckExceptionOnInvalidReferenceBehaviorPass.php(42): Symfony\Component\DependencyInjection\Compiler\CheckExceptionOnInvalidReferenceBehaviorPass->processReferences(Array)
+#1 /usr/local/nginx/html/sonata_by_init/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Compiler/CheckExceptionOnInvalidReferenceBehaviorPass.php(53): Symfony\Component\DependencyInjection\Compiler\CheckExceptionOnInvalidReferenceBehaviorPass->processDefinition(Object(Symfony\Component\DependencyInjection\Definition))
+#2 /usr/" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 16:27:14 [error] 5#0: *4 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Symfony\Component\Config\Definition\Exception\InvalidConfigurationException: The child node "default_contexts" at path "sonata_block" must be configured. in /usr/local/nginx/html/sonata_by_init/vendor/symfony/symfony/src/Symfony/Component/Config/Definition/ArrayNode.php:238
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/vendor/symfony/symfony/src/Symfony/Component/Config/Definition/BaseNode.php(301): Symfony\Component\Config\Definition\ArrayNode->finalizeValue(Array)
+#1 /usr/local/nginx/html/sonata_by_init/vendor/symfony/symfony/src/Symfony/Component/Config/Definition/Processor.php(37): Symfony\Component\Config\Definition\BaseNode->finalize(Array)
+#2 /usr/local/nginx/html/sonata_by_init/vendor/symfony/symfony/src/Symfony/Component/Config/Definition/Processor.php(50): Symfony\Component\Config\Definition\Processor->process(Object(Symfony\Component\Config\Definition\ArrayNode), Array)
+#3 /usr/local/nginx/html/sonata_by_init/vendor/sonata-project/block-bundle/Depe" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 16:29:14 [error] 5#0: *7 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Symfony\Component\Config\Definition\Exception\InvalidConfigurationException: The child node "default_contexts" at path "sonata_block" must be configured. in /usr/local/nginx/html/sonata_by_init/vendor/symfony/symfony/src/Symfony/Component/Config/Definition/ArrayNode.php:238
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/vendor/symfony/symfony/src/Symfony/Component/Config/Definition/BaseNode.php(301): Symfony\Component\Config\Definition\ArrayNode->finalizeValue(Array)
+#1 /usr/local/nginx/html/sonata_by_init/vendor/symfony/symfony/src/Symfony/Component/Config/Definition/Processor.php(37): Symfony\Component\Config\Definition\BaseNode->finalize(Array)
+#2 /usr/local/nginx/html/sonata_by_init/vendor/symfony/symfony/src/Symfony/Component/Config/Definition/Processor.php(50): Symfony\Component\Config\Definition\Processor->process(Object(Symfony\Component\Config\Definition\ArrayNode), Array)
+#3 /usr/local/nginx/html/sonata_by_init/vendor/sonata-project/block-bundle/Depe" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 16:29:44 [error] 5#0: *7 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\ParameterNotFoundException: You have requested a non-existent parameter "sonata.admin.configuration.admin_services". in /usr/local/nginx/html/sonata_by_init/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/ParameterBag/ParameterBag.php:84
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2154): Symfony\Component\DependencyInjection\ParameterBag\ParameterBag->get('sonata.admin.co...')
+#1 /usr/local/nginx/html/sonata_by_init/vendor/sonata-project/doctrine-orm-admin-bundle/DependencyInjection/Compiler/AddTemplatesCompilerPass.php(28): Symfony\Component\DependencyInjection\Container->getParameter('sonata.admin.co...')
+#2 /usr/local/nginx/html/sonata_by_init/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Compiler/Compiler.php(102): Sonata\DoctrineORMAdminBundle\DependencyInjection\Compiler\AddTemplatesCompilerPass->process(Object(Symfony\Component\DependencyInject" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 16:37:44 [error] 5#0: *12 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\ParameterNotFoundException: You have requested a non-existent parameter "sonata.admin.configuration.admin_services". in /usr/local/nginx/html/sonata_by_init/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/ParameterBag/ParameterBag.php:84
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2154): Symfony\Component\DependencyInjection\ParameterBag\ParameterBag->get('sonata.admin.co...')
+#1 /usr/local/nginx/html/sonata_by_init/vendor/sonata-project/doctrine-orm-admin-bundle/DependencyInjection/Compiler/AddTemplatesCompilerPass.php(28): Symfony\Component\DependencyInjection\Container->getParameter('sonata.admin.co...')
+#2 /usr/local/nginx/html/sonata_by_init/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Compiler/Compiler.php(102): Sonata\DoctrineORMAdminBundle\DependencyInjection\Compiler\AddTemplatesCompilerPass->process(Object(Symfony\Component\DependencyInject" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 16:38:42 [error] 5#0: *12 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\ParameterNotFoundException: You have requested a non-existent parameter "sonata.admin.configuration.admin_services". in /usr/local/nginx/html/sonata_by_init/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/ParameterBag/ParameterBag.php:84
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2154): Symfony\Component\DependencyInjection\ParameterBag\ParameterBag->get('sonata.admin.co...')
+#1 /usr/local/nginx/html/sonata_by_init/vendor/sonata-project/doctrine-orm-admin-bundle/DependencyInjection/Compiler/AddTemplatesCompilerPass.php(28): Symfony\Component\DependencyInjection\Container->getParameter('sonata.admin.co...')
+#2 /usr/local/nginx/html/sonata_by_init/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Compiler/Compiler.php(102): Sonata\DoctrineORMAdminBundle\DependencyInjection\Compiler\AddTemplatesCompilerPass->process(Object(Symfony\Component\DependencyInject" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 16:40:04 [error] 5#0: *17 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught ReflectionException: Class Application\Sonata\PageBundle\Entity\Site does not exist in /usr/local/nginx/html/sonata_by_init/app/cache/prod/classes.php:5908
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/cache/prod/classes.php(5908): ReflectionClass->__construct('Application\\Son...')
+#1 /usr/local/nginx/html/sonata_by_init/vendor/sonata-project/core-bundle/Model/BaseManager.php(48): Doctrine\Common\Persistence\AbstractManagerRegistry->getManagerForClass('Application\\Son...')
+#2 /usr/local/nginx/html/sonata_by_init/vendor/sonata-project/core-bundle/Model/BaseManager.php(154): Sonata\CoreBundle\Model\BaseManager->getObjectManager()
+#3 /usr/local/nginx/html/sonata_by_init/vendor/sonata-project/core-bundle/Model/BaseManager.php(84): Sonata\CoreBundle\Model\BaseManager->getRepository()
+#4 /usr/local/nginx/html/sonata_by_init/vendor/sonata-project/page-bundle/Site/BaseSiteSelector.php(123): Sonata\CoreBundle\Model\BaseManager->findBy(Array, Array)
+#5 /usr/local" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 16:41:20 [error] 5#0: *20 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught ReflectionException: Class Application\Sonata\PageBundle\Entity\Site does not exist in /usr/local/nginx/html/sonata_by_init/app/cache/prod/classes.php:5908
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/cache/prod/classes.php(5908): ReflectionClass->__construct('Application\\Son...')
+#1 /usr/local/nginx/html/sonata_by_init/vendor/sonata-project/core-bundle/Model/BaseManager.php(48): Doctrine\Common\Persistence\AbstractManagerRegistry->getManagerForClass('Application\\Son...')
+#2 /usr/local/nginx/html/sonata_by_init/vendor/sonata-project/core-bundle/Model/BaseManager.php(154): Sonata\CoreBundle\Model\BaseManager->getObjectManager()
+#3 /usr/local/nginx/html/sonata_by_init/vendor/sonata-project/core-bundle/Model/BaseManager.php(84): Sonata\CoreBundle\Model\BaseManager->getRepository()
+#4 /usr/local/nginx/html/sonata_by_init/vendor/sonata-project/page-bundle/Site/BaseSiteSelector.php(123): Sonata\CoreBundle\Model\BaseManager->findBy(Array, Array)
+#5 /usr/local" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 16:42:02 [error] 5#0: *20 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Twig_Error_Loader: The "/usr/local/nginx/html/sonata_by_init\vendor\symfony\symfony\src\Symfony\Bundle\FrameworkBundle/Resources/views" directory does not exist ("/usr/local/nginx/html/sonata_by_init\vendor\symfony\symfony\src\Symfony\Bundle\FrameworkBundle/Resources/views"). in /usr/local/nginx/html/sonata_by_init/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:101
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/cache/prod/appProdProjectContainer.php(5117): Twig_Loader_Filesystem->addPath('/usr/local/ngin...', 'Framework')
+#1 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2252): appProdProjectContainer->getTwig_LoaderService()
+#2 /usr/local/nginx/html/sonata_by_init/app/cache/prod/appProdProjectContainer.php(5043): Symfony\Component\DependencyInjection\Container->get('twig.loader')
+#3 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2252): appProdProjectContainer->getTwigService()
+#4 /usr/local/nginx/html/sonata_by_init/vendor/son" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 16:42:38 [error] 5#0: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Twig_Error_Loader: The "/usr/local/nginx/html/sonata_by_init\vendor\symfony\symfony\src\Symfony\Bundle\FrameworkBundle/Resources/views" directory does not exist ("/usr/local/nginx/html/sonata_by_init\vendor\symfony\symfony\src\Symfony\Bundle\FrameworkBundle/Resources/views"). in /usr/local/nginx/html/sonata_by_init/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:101
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/cache/prod/appProdProjectContainer.php(5117): Twig_Loader_Filesystem->addPath('/usr/local/ngin...', 'Framework')
+#1 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2252): appProdProjectContainer->getTwig_LoaderService()
+#2 /usr/local/nginx/html/sonata_by_init/app/cache/prod/appProdProjectContainer.php(5043): Symfony\Component\DependencyInjection\Container->get('twig.loader')
+#3 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2252): appProdProjectContainer->getTwigService()
+#4 /usr/local/nginx/html/sonata_by_init/vendor/son" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 16:54:18 [error] 5#0: *4 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught ReflectionException: Class Application\Sonata\PageBundle\Entity\Site does not exist in /usr/local/nginx/html/sonata_by_init/vendor/doctrine/common/lib/Doctrine/Common/Persistence/AbstractManagerRegistry.php:197
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/vendor/doctrine/common/lib/Doctrine/Common/Persistence/AbstractManagerRegistry.php(197): ReflectionClass->__construct('Application\\Son...')
+#1 /usr/local/nginx/html/sonata_by_init/vendor/sonata-project/core-bundle/Model/BaseManager.php(48): Doctrine\Common\Persistence\AbstractManagerRegistry->getManagerForClass('Application\\Son...')
+#2 /usr/local/nginx/html/sonata_by_init/vendor/sonata-project/core-bundle/Model/BaseManager.php(154): Sonata\CoreBundle\Model\BaseManager->getObjectManager()
+#3 /usr/local/nginx/html/sonata_by_init/vendor/sonata-project/core-bundle/Model/BaseManager.php(84): Sonata\CoreBundle\Model\BaseManager->getRepository()
+#4 /usr/local/nginx/html/sonata_by_init/vendor/sonata-project/page-" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 16:57:04 [error] 5#0: *7 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught ReflectionException: Class Application\Sonata\PageBundle\Entity\Site does not exist in /usr/local/nginx/html/sonata_by_init/vendor/doctrine/common/lib/Doctrine/Common/Persistence/AbstractManagerRegistry.php:197
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/vendor/doctrine/common/lib/Doctrine/Common/Persistence/AbstractManagerRegistry.php(197): ReflectionClass->__construct('Application\\Son...')
+#1 /usr/local/nginx/html/sonata_by_init/vendor/sonata-project/core-bundle/Model/BaseManager.php(48): Doctrine\Common\Persistence\AbstractManagerRegistry->getManagerForClass('Application\\Son...')
+#2 /usr/local/nginx/html/sonata_by_init/vendor/sonata-project/core-bundle/Model/BaseManager.php(154): Sonata\CoreBundle\Model\BaseManager->getObjectManager()
+#3 /usr/local/nginx/html/sonata_by_init/vendor/sonata-project/core-bundle/Model/BaseManager.php(84): Sonata\CoreBundle\Model\BaseManager->getRepository()
+#4 /usr/local/nginx/html/sonata_by_init/vendor/sonata-project/page-" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 17:07:11 [error] 5#0: *10 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught ReflectionException: Class Application\Sonata\PageBundle\Entity\Site does not exist in /usr/local/nginx/html/sonata_by_init/vendor/doctrine/common/lib/Doctrine/Common/Persistence/AbstractManagerRegistry.php:197
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/vendor/doctrine/common/lib/Doctrine/Common/Persistence/AbstractManagerRegistry.php(197): ReflectionClass->__construct('Application\\Son...')
+#1 /usr/local/nginx/html/sonata_by_init/vendor/sonata-project/core-bundle/Model/BaseManager.php(48): Doctrine\Common\Persistence\AbstractManagerRegistry->getManagerForClass('Application\\Son...')
+#2 /usr/local/nginx/html/sonata_by_init/vendor/sonata-project/core-bundle/Model/BaseManager.php(154): Sonata\CoreBundle\Model\BaseManager->getObjectManager()
+#3 /usr/local/nginx/html/sonata_by_init/vendor/sonata-project/core-bundle/Model/BaseManager.php(84): Sonata\CoreBundle\Model\BaseManager->getRepository()
+#4 /usr/local/nginx/html/sonata_by_init/vendor/sonata-project/page-" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 17:09:48 [error] 5#0: *13 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php:32
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2706): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2532): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2564): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_by_init/web/app.php(15): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php on line 32" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 17:10:40 [error] 5#0: *13 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught ReflectionException: Class Application\Sonata\PageBundle\Entity\Site does not exist in /usr/local/nginx/html/sonata_by_init/vendor/doctrine/common/lib/Doctrine/Common/Persistence/AbstractManagerRegistry.php:197
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/vendor/doctrine/common/lib/Doctrine/Common/Persistence/AbstractManagerRegistry.php(197): ReflectionClass->__construct('Application\\Son...')
+#1 /usr/local/nginx/html/sonata_by_init/vendor/sonata-project/core-bundle/Model/BaseManager.php(48): Doctrine\Common\Persistence\AbstractManagerRegistry->getManagerForClass('Application\\Son...')
+#2 /usr/local/nginx/html/sonata_by_init/vendor/sonata-project/core-bundle/Model/BaseManager.php(154): Sonata\CoreBundle\Model\BaseManager->getObjectManager()
+#3 /usr/local/nginx/html/sonata_by_init/vendor/sonata-project/core-bundle/Model/BaseManager.php(84): Sonata\CoreBundle\Model\BaseManager->getRepository()
+#4 /usr/local/nginx/html/sonata_by_init/vendor/sonata-project/page-" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 17:11:40 [error] 5#0: *18 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php:32
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2706): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2532): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2564): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_by_init/web/app.php(15): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php on line 32" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 17:11:54 [error] 5#0: *18 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php:32
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2706): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2532): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2564): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_by_init/web/app.php(15): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php on line 32" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 17:11:56 [error] 5#0: *18 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php:32
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2706): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2532): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2564): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_by_init/web/app.php(15): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php on line 32" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 17:11:56 [error] 5#0: *18 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php:32
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2706): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2532): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2564): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_by_init/web/app.php(15): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php on line 32" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 17:11:56 [error] 5#0: *18 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php:32
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2706): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2532): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2564): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_by_init/web/app.php(15): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php on line 32" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 17:11:56 [error] 5#0: *18 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php:32
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2706): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2532): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2564): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_by_init/web/app.php(15): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php on line 32" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 17:11:56 [error] 5#0: *18 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php:32
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2706): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2532): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2564): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_by_init/web/app.php(15): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php on line 32" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 17:11:57 [error] 5#0: *18 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php:32
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2706): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2532): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2564): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_by_init/web/app.php(15): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php on line 32" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 17:14:17 [error] 5#0: *29 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php:32
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2706): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2532): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2564): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_by_init/web/app.php(15): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php on line 32" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 17:14:19 [error] 5#0: *29 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php:32
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2706): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2532): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2564): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_by_init/web/app.php(15): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php on line 32" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 17:14:20 [error] 5#0: *29 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php:32
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2706): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2532): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2564): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_by_init/web/app.php(15): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php on line 32" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 17:14:53 [error] 5#0: *29 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php:32
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2706): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2532): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2564): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_by_init/web/app.php(15): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php on line 32" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 17:14:55 [error] 5#0: *29 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php:32
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2706): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2532): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2564): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_by_init/web/app.php(15): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php on line 32" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 17:15:19 [error] 5#0: *29 FastCGI sent in stderr: "PHP message: PHP Warning:  include_once(/usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache): failed to open stream: No such file or directory in /usr/local/nginx/html/sonata_by_init/web/app.php on line 6
+PHP message: PHP Warning:  include_once(): Failed opening '/usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php7/lib/php') in /usr/local/nginx/html/sonata_by_init/web/app.php on line 6
+PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php:32
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php(431): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_by_init/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php(128): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_by_init/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php(180): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_by_init/web/app.php(15): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php on line 32" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 17:15:47 [error] 5#0: *29 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php:32
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2706): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2532): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2564): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_by_init/web/app.php(15): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php on line 32" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 17:15:49 [error] 5#0: *29 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php:32
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2706): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2532): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2564): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_by_init/web/app.php(15): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php on line 32" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 17:15:49 [error] 5#0: *29 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php:32
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2706): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2532): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2564): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_by_init/web/app.php(15): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php on line 32" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 17:15:49 [error] 5#0: *29 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php:32
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2706): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2532): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2564): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_by_init/web/app.php(15): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php on line 32" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 17:15:50 [error] 5#0: *29 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php:32
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2706): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2532): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2564): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_by_init/web/app.php(15): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php on line 32" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 17:15:50 [error] 5#0: *29 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php:32
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2706): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2532): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2564): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_by_init/web/app.php(15): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php on line 32" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 17:15:50 [error] 5#0: *29 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php:32
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2706): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2532): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2564): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_by_init/web/app.php(15): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php on line 32" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 17:15:50 [error] 5#0: *39 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php:32
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2706): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2532): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2564): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_by_init/web/app.php(15): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php on line 32" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 17:15:51 [error] 5#0: *39 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php:32
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2706): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2532): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2564): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_by_init/web/app.php(15): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php on line 32" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 17:15:51 [error] 5#0: *39 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php:32
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2706): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2532): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2564): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_by_init/web/app.php(15): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php on line 32" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 17:15:51 [error] 5#0: *39 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php:32
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2706): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2532): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2564): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_by_init/web/app.php(15): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php on line 32" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/07 17:15:51 [error] 5#0: *39 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php:32
+Stack trace:
+#0 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2706): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2532): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_by_init/app/bootstrap.php.cache(2564): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_by_init/web/app.php(15): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_by_init/app/AppKernel.php on line 32" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/08 09:29:47 [error] 5#0: *1 recv() failed (104: Connection reset by peer) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "symfony-demo.com"
+2017/12/11 16:34:33 [error] 5#0: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\InvalidArgumentException: There is no extension able to load the configuration for "sonata_page" (in /usr/local/nginx/html/sonata_demo/app/config/config.yml). Looked for namespace "sonata_page", found "framework", "security", "twig", "monolog", "swiftmailer", "doctrine", "sensio_framework_extra" in /usr/local/nginx/html/sonata_demo/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Loader/YamlFileLoader.php:399
+Stack trace:
+#0 /usr/local/nginx/html/sonata_demo/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Loader/YamlFileLoader.php(369): Symfony\Component\DependencyInjection\Loader\YamlFileLoader->validate(Array, '/usr/local/ngin...')
+#1 /usr/local/nginx/html/sonata_demo/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Loader/YamlFileLoader.php(44): Symfony\Component\DependencyInjection\Loader\YamlFileLoader->loadFile('/usr/local/ngin...')
+#2 /usr/local/nginx/html/sonata_" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com"
+2017/12/11 16:35:18 [error] 5#0: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\InvalidArgumentException: There is no extension able to load the configuration for "sonata_page" (in /usr/local/nginx/html/sonata_demo/app/config/config.yml). Looked for namespace "sonata_page", found "framework", "security", "twig", "monolog", "swiftmailer", "doctrine", "sensio_framework_extra" in /usr/local/nginx/html/sonata_demo/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Loader/YamlFileLoader.php:399
+Stack trace:
+#0 /usr/local/nginx/html/sonata_demo/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Loader/YamlFileLoader.php(369): Symfony\Component\DependencyInjection\Loader\YamlFileLoader->validate(Array, '/usr/local/ngin...')
+#1 /usr/local/nginx/html/sonata_demo/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Loader/YamlFileLoader.php(44): Symfony\Component\DependencyInjection\Loader\YamlFileLoader->loadFile('/usr/local/ngin...')
+#2 /usr/local/nginx/html/sonata_" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com"
+2017/12/11 16:35:21 [error] 5#0: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\InvalidArgumentException: There is no extension able to load the configuration for "sonata_page" (in /usr/local/nginx/html/sonata_demo/app/config/config.yml). Looked for namespace "sonata_page", found "framework", "security", "twig", "monolog", "swiftmailer", "doctrine", "sensio_framework_extra" in /usr/local/nginx/html/sonata_demo/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Loader/YamlFileLoader.php:399
+Stack trace:
+#0 /usr/local/nginx/html/sonata_demo/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Loader/YamlFileLoader.php(369): Symfony\Component\DependencyInjection\Loader\YamlFileLoader->validate(Array, '/usr/local/ngin...')
+#1 /usr/local/nginx/html/sonata_demo/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Loader/YamlFileLoader.php(44): Symfony\Component\DependencyInjection\Loader\YamlFileLoader->loadFile('/usr/local/ngin...')
+#2 /usr/local/nginx/html/sonata_" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com"
+2017/12/11 16:35:28 [error] 5#0: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\InvalidArgumentException: There is no extension able to load the configuration for "sonata_page" (in /usr/local/nginx/html/sonata_demo/app/config/config.yml). Looked for namespace "sonata_page", found "framework", "security", "twig", "monolog", "swiftmailer", "doctrine", "sensio_framework_extra" in /usr/local/nginx/html/sonata_demo/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Loader/YamlFileLoader.php:399
+Stack trace:
+#0 /usr/local/nginx/html/sonata_demo/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Loader/YamlFileLoader.php(369): Symfony\Component\DependencyInjection\Loader\YamlFileLoader->validate(Array, '/usr/local/ngin...')
+#1 /usr/local/nginx/html/sonata_demo/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Loader/YamlFileLoader.php(44): Symfony\Component\DependencyInjection\Loader\YamlFileLoader->loadFile('/usr/local/ngin...')
+#2 /usr/local/nginx/html/sonata_" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com"
+2017/12/11 16:35:30 [error] 5#0: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\InvalidArgumentException: There is no extension able to load the configuration for "sonata_page" (in /usr/local/nginx/html/sonata_demo/app/config/config.yml). Looked for namespace "sonata_page", found "framework", "security", "twig", "monolog", "swiftmailer", "doctrine", "sensio_framework_extra" in /usr/local/nginx/html/sonata_demo/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Loader/YamlFileLoader.php:399
+Stack trace:
+#0 /usr/local/nginx/html/sonata_demo/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Loader/YamlFileLoader.php(369): Symfony\Component\DependencyInjection\Loader\YamlFileLoader->validate(Array, '/usr/local/ngin...')
+#1 /usr/local/nginx/html/sonata_demo/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Loader/YamlFileLoader.php(44): Symfony\Component\DependencyInjection\Loader\YamlFileLoader->loadFile('/usr/local/ngin...')
+#2 /usr/local/nginx/html/sonata_" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com"
+2017/12/11 16:36:01 [error] 5#0: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_demo/app/AppKernel.php:37
+Stack trace:
+#0 /usr/local/nginx/html/sonata_demo/app/bootstrap.php.cache(2706): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_demo/app/bootstrap.php.cache(2532): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_demo/app/bootstrap.php.cache(2564): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_demo/web/app.php(22): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_demo/app/AppKernel.php on line 37" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com"
+2017/12/11 16:36:03 [error] 5#0: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_demo/app/AppKernel.php:37
+Stack trace:
+#0 /usr/local/nginx/html/sonata_demo/app/bootstrap.php.cache(2706): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_demo/app/bootstrap.php.cache(2532): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_demo/app/bootstrap.php.cache(2564): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_demo/web/app.php(22): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_demo/app/AppKernel.php on line 37" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com"
+2017/12/11 16:36:43 [error] 5#0: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_demo/app/AppKernel.php:33
+Stack trace:
+#0 /usr/local/nginx/html/sonata_demo/app/bootstrap.php.cache(2706): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_demo/app/bootstrap.php.cache(2532): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_demo/app/bootstrap.php.cache(2564): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_demo/web/app.php(22): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_demo/app/AppKernel.php on line 33" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com"
+2017/12/11 16:36:50 [error] 5#0: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Application\Sonata\PageBundle\ApplicationSonataPageBundle' not found in /usr/local/nginx/html/sonata_demo/app/AppKernel.php:33
+Stack trace:
+#0 /usr/local/nginx/html/sonata_demo/app/bootstrap.php.cache(2706): AppKernel->registerBundles()
+#1 /usr/local/nginx/html/sonata_demo/app/bootstrap.php.cache(2532): Symfony\Component\HttpKernel\Kernel->initializeBundles()
+#2 /usr/local/nginx/html/sonata_demo/app/bootstrap.php.cache(2564): Symfony\Component\HttpKernel\Kernel->boot()
+#3 /usr/local/nginx/html/sonata_demo/web/app.php(22): Symfony\Component\HttpKernel\Kernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#4 {main}
+  thrown in /usr/local/nginx/html/sonata_demo/app/AppKernel.php on line 33" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com"
+2017/12/12 11:02:57 [error] 5#0: *15 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Cannot declare class Symfony\Component\Debug\ErrorHandler, because the name is already in use in /usr/local/nginx/html/sonata_demo/vendor/symfony/symfony/src/Symfony/Component/Debug/ErrorHandler.php on line 47" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "POST /admin/login_check HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/login"
+2017/12/12 11:03:14 [error] 5#0: *15 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Debug' not found in /usr/local/nginx/html/sonata_demo/web/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /usr/local/nginx/html/sonata_demo/web/app.php on line 14" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "POST /admin/login_check HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/login"
+2017/12/12 11:03:34 [error] 5#0: *15 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Cannot declare class Symfony\Component\Debug\ErrorHandler, because the name is already in use in /usr/local/nginx/html/sonata_demo/vendor/symfony/symfony/src/Symfony/Component/Debug/ErrorHandler.php on line 47" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "POST /admin/login_check HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/login"
+2017/12/12 11:05:42 [error] 5#0: *50 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Type error: Argument 3 passed to Sonata\AdminBundle\Security\Handler\AclSecurityHandler::__construct() must be an instance of Symfony\Component\Security\Acl\Model\MutableAclProviderInterface, null given, called in /usr/local/nginx/html/sonata_demo/app/cache/dev/appDevDebugProjectContainer.php on line 3540 in /usr/local/nginx/html/sonata_demo/vendor/sonata-project/admin-bundle/Security/Handler/AclSecurityHandler.php:77
+Stack trace:
+#0 /usr/local/nginx/html/sonata_demo/app/cache/dev/appDevDebugProjectContainer.php(3540): Sonata\AdminBundle\Security\Handler\AclSecurityHandler->__construct(Object(Symfony\Component\Security\Core\Authentication\Token\Storage\TokenStorage), Object(Symfony\Component\Security\Core\Authorization\AuthorizationChecker), NULL, 'Sonata\\AdminBun...', Array)
+#1 /usr/local/nginx/html/sonata_demo/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Container.php(297): appDevDebugProj" while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "POST /admin/login_check HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/login"
+2017/12/12 13:24:41 [error] 5#0: *445 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/sonata/page/page/compose/container/3 HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/sonata/page/page/3/compose"
+2017/12/12 13:24:41 [error] 5#0: *447 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/sonata/page/page/compose/container/3 HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/sonata/page/page/3/compose"
+2017/12/12 13:24:42 [error] 5#0: *394 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/sonata/page/page/compose/container/3 HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/sonata/page/page/3/compose"
+2017/12/12 13:24:42 [error] 5#0: *381 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/sonata/page/page/compose/container/3 HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/sonata/page/page/3/compose"
+2017/12/12 13:24:42 [error] 5#0: *375 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/sonata/page/page/compose/container/3 HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/sonata/page/page/3/compose"
+2017/12/12 13:24:48 [error] 5#0: *396 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/sonata/page/page/compose/container/3 HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/sonata/page/page/3/compose"
+2017/12/12 13:24:49 [error] 5#0: *378 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/sonata/page/page/compose/container/3 HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/sonata/page/page/3/compose"
+2017/12/12 13:24:50 [error] 5#0: *386 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/sonata/page/page/compose/container/3 HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/sonata/page/page/3/compose"
+2017/12/12 13:24:51 [error] 5#0: *362 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/sonata/page/page/compose/container/3 HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/sonata/page/page/3/compose"
+2017/12/12 13:24:52 [error] 5#0: *403 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/sonata/page/page/compose/container/3 HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/sonata/page/page/3/compose"
+2017/12/12 13:24:57 [error] 5#0: *405 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/sonata/page/page/compose/container/3 HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/sonata/page/page/3/compose"
+2017/12/12 13:24:59 [error] 5#0: *407 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/sonata/page/page/compose/container/3 HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/sonata/page/page/3/compose"
+2017/12/12 13:25:00 [error] 5#0: *409 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/sonata/page/page/compose/container/3 HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/sonata/page/page/3/compose"
+2017/12/12 13:25:01 [error] 5#0: *411 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/sonata/page/page/compose/container/3 HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/sonata/page/page/3/compose"
+2017/12/12 13:25:01 [error] 5#0: *413 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/sonata/page/page/compose/container/3 HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/sonata/page/page/3/compose"
+2017/12/12 13:25:08 [error] 5#0: *415 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/sonata/page/page/compose/container/3 HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/sonata/page/page/3/compose"
+2017/12/12 13:25:08 [error] 5#0: *463 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/sonata/page/page/compose/container/3 HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/sonata/page/page/3/compose"
+2017/12/12 13:25:09 [error] 5#0: *465 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/sonata/page/page/compose/container/3 HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/sonata/page/page/3/compose"
+2017/12/12 13:25:09 [error] 5#0: *467 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/sonata/page/page/compose/container/3 HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/sonata/page/page/3/compose"
+2017/12/12 13:25:09 [error] 5#0: *469 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/sonata/page/page/compose/container/3 HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/sonata/page/page/3/compose"
+2017/12/12 13:25:10 [error] 5#0: *471 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/sonata/page/page/compose/container/4 HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/sonata/page/page/3/compose"
+2017/12/12 13:25:10 [error] 5#0: *473 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/sonata/page/page/compose/container/4 HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/sonata/page/page/3/compose"
+2017/12/12 13:25:10 [error] 5#0: *475 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/login HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com"
+2017/12/12 13:25:10 [error] 5#0: *477 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/sonata/page/page/compose/container/4 HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/sonata/page/page/3/compose"
+2017/12/12 13:25:11 [error] 5#0: *417 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/sonata/page/page/compose/container/4 HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/sonata/page/page/3/compose"
+2017/12/12 13:25:11 [error] 5#0: *480 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/sonata/page/page/compose/container/4 HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/sonata/page/page/3/compose"
+2017/12/12 13:25:11 [error] 5#0: *482 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/sonata/page/page/compose/container/4 HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/sonata/page/page/3/compose"
+2017/12/12 13:25:11 [error] 5#0: *484 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/sonata/page/page/compose/container/4 HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/sonata/page/page/3/compose"
+2017/12/12 13:25:11 [error] 5#0: *486 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/sonata/page/page/compose/container/4 HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/sonata/page/page/3/compose"
+2017/12/12 13:25:42 [error] 5#0: *381 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/sonata/page/page/compose/container/2 HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com", referrer: "http://symfony-demo.com/admin/sonata/page/page/3/compose"
+2017/12/12 13:26:10 [error] 5#0: *477 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.99.1, server: symfony-demo.com, request: "GET /admin/sonata/page/page/3/jquery.min.map HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "symfony-demo.com"
